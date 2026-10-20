@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
-[![Streamlit](https://customer-review-sentiment-analysis-anjali.streamlit.app/)
-
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://customer-review-sentiment-analysis-anjali.streamlit.app/)
 > A machine learning project for classifying real customer reviews as **positive, negative, or neutral** using supervised learning techniques. The project merges **13 real Kaggle datasets**, handles imbalanced sentiment classes, compares multiple models, and selects the best-performing model based on **Macro F1-score**.
 
 ---
