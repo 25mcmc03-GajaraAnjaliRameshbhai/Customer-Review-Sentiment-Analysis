@@ -1,0 +1,90 @@
+{
+  "model_name": "LogisticRegression",
+  "trained_at": "2026-07-30T01:01:39.720556",
+  "number_of_training_samples": 24464,
+  "number_of_test_samples": 6116,
+  "class_distribution": {
+    "positive": 16923,
+    "negative": 5837,
+    "neutral": 1704
+  },
+  "hyperparameters": {
+    "C": 2.0,
+    "class_weight": {
+      "positive": 1,
+      "negative": 1.5,
+      "neutral": 4
+    }
+  },
+  "metrics": {
+    "accuracy": 0.782,
+    "macro_f1": 0.6089,
+    "weighted_f1": 0.782
+  },
+  "confusion_matrix": [
+    [
+      958,
+      134,
+      367
+    ],
+    [
+      107,
+      125,
+      194
+    ],
+    [
+      348,
+      183,
+      3700
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "top_positive_features": [
+    "great",
+    "course",
+    "amazing",
+    "love",
+    "memory",
+    "excellent",
+    "excelente",
+    "life",
+    "tablet",
+    "storage",
+    "great course",
+    "film",
+    "informative",
+    "brilliant",
+    "tap",
+    "really like",
+    "beste",
+    "family",
+    "enjoyed",
+    "beautiful"
+  ],
+  "top_negative_features": [
+    "useless",
+    "awful",
+    "movie",
+    "acting",
+    "lost",
+    "poorly",
+    "stupid",
+    "disappointed",
+    "character",
+    "minute",
+    "even",
+    "deleted",
+    "difficult use",
+    "terrible",
+    "boring",
+    "film",
+    "would recommend",
+    "one star",
+    "nothing",
+    "uninstalled"
+  ]
+}
