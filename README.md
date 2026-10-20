@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![NLTK](https://img.shields.io/badge/NLTK-NLP-green)
-[![Streamlit]
+[![Streamlit](https://customer-review-sentiment-analysis-anjali.streamlit.app/)
 
 > A machine learning project for classifying real customer reviews as **positive, negative, or neutral** using supervised learning techniques. The project merges **13 real Kaggle datasets**, handles imbalanced sentiment classes, compares multiple models, and selects the best-performing model based on **Macro F1-score**.
 
@@ -406,7 +406,7 @@ streamlit run app.py
 
 Open your browser at **http://localhost:8501**
 
-**[Live demo →]**
+**[Live demo →](https://customer-review-sentiment-analysis-anjali.streamlit.app/)**
 
 > Full deployment steps are in the [Deployment](#️-deployment) section below.
 
@@ -445,7 +445,7 @@ This is auto-mapped as `Comments → review_text`, `Stars → rating`, `Timestam
 
 The dashboard is deployed on **Streamlit Community Cloud** straight from this GitHub repository.
 
-**[🌐 Live App →]()**
+**[🌐 Live App →](https://customer-review-sentiment-analysis-anjali.streamlit.app/)**
 
 ### Deploy Your Own Copy
 
